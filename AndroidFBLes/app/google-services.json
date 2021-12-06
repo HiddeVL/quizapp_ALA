@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864537661452",
+    "project_id": "androidles-126fd",
+    "storage_bucket": "androidles-126fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864537661452:android:f557dad418e8e3eb181e29",
+        "android_client_info": {
+          "package_name": "com.hiddevanleeuwen.androidfbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864537661452-ith6hueermne4qe0q38lmpbao5n5ef9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9btKwl1higD78D0Yd17fJbNQSq6f-TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864537661452-ith6hueermne4qe0q38lmpbao5n5ef9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
